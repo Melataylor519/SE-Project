@@ -46,11 +46,11 @@ jobs:
           else
             echo "No errors found!"
           fi
-            - name: Setup reviewdog
-  # You may pin to the exact commit or the version.
-  # uses: reviewdog/action-setup@3f401fe1d58fe77e10d665ab713057375e39b887
-  uses: reviewdog/action-setup@v1.3.0
-  with:
-    # reviewdog version. [latest,nightly,vX.Y.Z]
-    reviewdog_version: # optional, default is latest
-          
+
+      #Installs reviewdog
+      - name: Setup reviewdog
+        uses: reviewdog/action-setup@v1.3.0
+        with:
+          reviewdog_version: v0.20.1
+                
+
