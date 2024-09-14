@@ -1,4 +1,4 @@
-package DataStorageApi;
+package data_storage_api;
 
 public class DataStorageApiPrototype {
     public void prototype(DataStorage dataStorage) {
