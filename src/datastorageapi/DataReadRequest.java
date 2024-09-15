@@ -1,4 +1,4 @@
-package dataStorageApi;
+package datastorageapi;
 
 public class DataReadRequest {
 }

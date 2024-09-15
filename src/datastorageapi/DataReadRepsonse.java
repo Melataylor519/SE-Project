@@ -1,4 +1,4 @@
-package dataStorageApi;
+package datastorageapi;
 
 public interface DataReadRepsonse {
 }

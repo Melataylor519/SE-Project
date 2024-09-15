@@ -1,4 +1,4 @@
-package computeEngineComponentApi;
+package usercomponentapi;
 
 public interface WriteResponse {
 
