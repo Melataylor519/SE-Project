@@ -9,8 +9,4 @@ build
 .settings/org.eclipse.jdt.core.prefs
 .project
 .idea/gradle.xml
-.idea/gradle.xml
-/.idea
-/.idea
-/.idea
-/.idea
+/.idea/
